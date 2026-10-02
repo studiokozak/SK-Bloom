@@ -158,6 +158,10 @@ There are no factory presets, only Init. Every source is different, and the righ
 
 **Reaper users:** by default, Reaper keeps keyboard shortcuts for itself. Press the space bar while naming a preset and your song starts playing instead of a space being typed. To fix this, click the + button at the top of the plugin window and enable Send all keyboard input to plug-in. Keep in mind that while this option is on and the plugin window has focus, the space bar will not start or stop playback, so you may want to switch it back off once your presets are named.
 
+<p align="center">
+  <img src="Screenshots/Presets_Reaper_Issue.png">
+</p>
+
 ---
 
 ### Power
