@@ -110,6 +110,10 @@ The gap between the two values is the bloom. The further apart they are, the lon
 Set them to the same value and the bloom disappears completely.
 The link button between the two knobs keeps the ratio between them while you turn either one. Handy for making the tail longer or shorter while keeping its shape.
 
+Each release can also follow the tempo of your session. Click the small note at the bottom right of a knob and pick a note value, from 1/4 down to 1/128, played straight, triplet or dotted. The menu shows how long each one lasts at the current tempo. The knob then displays the note value and its length in milliseconds, and keeps up if the tempo changes during the song.
+Lock both releases to the same note value and, just like with equal values, the bloom disappears. Lock them to two different ones, say 1/16 for A and 1/8 for B, and the tail breathes with the groove.
+Turn a knob by hand and that release goes back to manual. If the link button is on, both do. Choosing Off (manual) in the menu does the same without moving anything.
+
 #### CHARACTER (BASE / PR. DEP.)
 
 BASE gives a steady, predictable recovery. Same behaviour on every hit.
